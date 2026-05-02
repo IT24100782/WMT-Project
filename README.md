@@ -1,2 +1,0 @@
-# WMT-Project
-WMT Project
